@@ -3,6 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
 	    "Hello, I'm Stepan",
 	    "Lead JavaScript Developer with 8 years of production code experience",
 	    "Mostly helping tech companies build web and mobile applications",
+        "I'm open to collaborating on interesting projects",
 	    "Traveling around the world, exploring new countries and cultures",
 	    "Sharing my journey through a personal blog..."
 	];
