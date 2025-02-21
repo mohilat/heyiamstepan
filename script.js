@@ -4,7 +4,6 @@ document.addEventListener('DOMContentLoaded', function () {
 	    "Lead JavaScript Developer with 8 years of production code experience",
 	    "Mostly helping tech companies build web and mobile applications",
 	    "Traveling around the world, exploring new countries and cultures",
-	    "Fitness enthusiast, always pushing my limits",
 	    "Sharing my journey through a personal blog..."
 	];
 
